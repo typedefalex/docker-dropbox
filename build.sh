@@ -1,2 +1,2 @@
 docker build -t typedefalex/dropbox --no-cache .
-docker push typedefalex/dropbox
+#docker push typedefalex/dropbox
